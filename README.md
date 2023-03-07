@@ -4,4 +4,5 @@ I am a software engineer with 10+ years of professional dev experience building 
 
 <br />
 
-[<img align="left" width="24px" src="https://github.com/kathmanducoder/kathmanducoder/blob/main/KathmanduCoderIcon.png" />](http://kathmanducoder.com)
+[<img align="left" width="24px" src="https://github.com/kathmanducoder/kathmanducoder/blob/main/icons/KathmanduCoderIcon.png" />](http://kathmanducoder.com)
+[<img align="left" width="24px" src="https://github.com/kathmanducoder/kathmanducoder/blob/main/icons/yt_icon_rgb.png" />](https://www.youtube.com/@kathmanducoder)
