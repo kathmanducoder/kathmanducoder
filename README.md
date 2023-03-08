@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-I am a software engineer with 10+ years of professional dev experience building a wide range of software from complex Linux-based networking systems to backend, APIs and frontend of microservices-based web apps. I have a strong understanding of computer networks from data link layer to application layer and the know-hows to architect, setup and configure networks, or debug and analyze issues in existing networks.
+I am a software engineer with 10+ years of professional dev experience building a wide range of software from complex Linux-based networking systems to backend, APIs and frontend of microservices-based web apps. I have a strong understanding of computer networks from data link layer to application layer, with experience working in a variety of networks, from traditional, to software-defined, to industrial and operational.
 
 <br />
 
